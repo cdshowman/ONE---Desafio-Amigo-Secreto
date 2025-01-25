@@ -189,7 +189,7 @@ button {
     }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 411px) and (max-width: 768px) {
     .header-banner {
         flex-direction: column;
     }
@@ -225,12 +225,12 @@ button {
     }
 }
 
-@media (min-width: 320px) and (max-width: 479px) {
+@media (min-width: 320px) and (max-width: 410px) {
     .header-banner {
         flex-direction: column;
     }
     #img-principal {
-        max-width: 250px;
+        max-width: 240px;
         width: 100%;
         height: auto;
     }
@@ -239,12 +239,12 @@ button {
         width: 70vw;
     }
     .button-container {
-        max-width: 250px;
+        max-width: 240px;
         flex-direction: column;
         align-items: center;
     }
     .button-draw {
-        max-width: 250px;
+        max-width: 240px;
         width: 100%;
         font-size: 1.2rem;
     }
@@ -252,7 +252,7 @@ button {
         font-size: 1.5rem;
     }
     .input-wrapper {
-        max-width: 250px;
+        max-width: 240px;
         width: 100%;
     }
     .input-name {
