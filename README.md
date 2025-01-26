@@ -1,4 +1,4 @@
-# ONE - Desafio Amigo Secreto
+# Desafio Amigo Secreto (ONE Oracle + Alura)
 
 Uma breve descrição do projeto, explicando o que ele faz e por que é útil.
 
