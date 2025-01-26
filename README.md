@@ -1,12 +1,12 @@
-# ONE---Desafio-Amigo-Secreto
+# ONE - Desafio Amigo Secreto
 
 Uma breve descrição do projeto, explicando o que ele faz e por que é útil.
 
 ## 📋 Funcionalidades
 
-- **Permite a inclusão de uma lista de nomes a serem sorteados.  
-- **Remove da lista os nomes que já foram sorteados, evitando assim duplicidades.  
-- **Botão pra limpar a lista em caso de erro de inclusão pra reiniciar o processo.  
+- **Permite a inclusão de uma lista de nomes a serem sorteados.**
+- **Remove da lista os nomes que já foram sorteados, evitando assim duplicidades.**
+- **Botão pra limpar a lista em caso de erro de inclusão pra reiniciar o processo.**
 
 ## 🚀 Tecnologias Utilizadas
 
