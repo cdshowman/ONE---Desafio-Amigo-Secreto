@@ -29,3 +29,13 @@ Planejo adicionar os seguintes recursos:
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/cdshowman/ONE---Desafio-Amigo-Secreto.git
+
+## 📣 Sobre
+
+Esse projeto é parte do programa ONE da Oracle em parceria com a Alura.
+
+_________________________________________
+
+
+Feito por Carlos Daniel.
+
