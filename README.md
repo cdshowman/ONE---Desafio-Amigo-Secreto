@@ -14,7 +14,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - **HTML5:** Estruturação do conteúdo.  
 - **CSS3:** Estilização do layout e design responsivo.  
-- **JavaScript:** Lógica e interatividade da aplicação.  
+- **JavaScript:** Lógica e interatividade da aplicação.
+
+## 🌎 Acesso
+
+O resultado do projeto pode ser visto no link abaixo:
+
+https://one-desafio-amigo-secreto.vercel.app/
 
 ## 🛠️ Melhorias Futuras
 
